@@ -11,8 +11,8 @@ const CONFIG = {
     btnNo: 'Không, em à :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao anh lại yêu em <3',
     btnReply: 'Gửi cho em <3',
-    reply: 'Vì em ngon :)))))🤣🤣🤣',
-    mess: 'em biết mà 🥰. Yêu Toàn nhiều nhiều 😘😘',
+    reply: 'Vì em ngon 🤣🤣🤣 :)))',
+    mess: 'em biết mà 🥰. Yêu Toàn nhiều nhiều nè 😘😘',
     messDesc: 'Tối nay 7h em qua chơi với anh nhá 😘🥰😘 .',
     btnAccept: 'Okiiiii lun <3, cho anh ghi sổ nợ 200k nữa nhá =))))',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
