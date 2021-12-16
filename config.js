@@ -12,8 +12,8 @@ const CONFIG = {
     question:'Trên thế giới hơn 7 tỉ người mà sao anh lại yêu em <3',
     btnReply: 'Gửi cho em <3',
     reply: 'Vì em ngon 🤣🤣🤣 :)))',
-    mess: 'em biết mà 🥰. Yêu Toàn nhiều nhiều nè 😘😘',
-    messDesc: 'Tối nay 7h em qua chơi với anh nhá 😘🥰😘 .',
-    btnAccept: 'Okiiiii lun <3, cho anh ghi sổ nợ 200k nữa nhá =))))',
+    mess: 'em biết mà 🥰. Yêu anh Vũ nhiều nhiều ạ 😘😘',
+    messDesc: '31/12 anh tỏ tình em nhớ chưa, ko được quên đâu, quên là em dỗi 5' đấy :))) 😘�💞 .',
+    btnAccept: 'Okiiiii lun <3, vẫn kèo 12/6 đấy nhá 🤣🤣🤣 =))))',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
