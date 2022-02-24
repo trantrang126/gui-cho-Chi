@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'Gửi cho em <3',
     reply: 'Vì em là Ran còn anh là Shinichi, à vì em ngon nữa 🤣🤣🤣 :)))',
     mess: 'em biết mà 🥰. Yêu anh Dũng nhiều nhiều ạ 😘😘',
-    messDesc: 'Bao h đi công tác về tỏ tình em hẳn hoi nhớ chưa, ko được quên đâu, quên là em dỗi 5' đấy :))) 😘�💞 .',
+    messDesc: 'Bao h đi công tác về tỏ tình em hẳn hoi nhớ chưa, ko được quên đâu, quên là em dỗi 5' đấy :))) 😘💞 .',
     btnAccept: 'Okiiiii lun <3, đợi anh nhé 🥰 =))))',
-    messLink: 'https://www.google.com.vn/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fkiss-love-lovers-cute-bear-gif-16293392&psig=AOvVaw3MxpNHX93D3K1xCmCHZICO&ust=1645780707484000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDam4aBmPYCFQAAAAAdAAAAABAD' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
